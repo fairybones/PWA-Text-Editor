@@ -14,13 +14,13 @@ Module 19 Challenge
 This progressive web application uses a custom service worker and other webpack/workbox technologies to facilitate a text editor. 
 
 ## Installation
-In order to install express, please use npm install
+In order to install necessary dependencies, please run npm i
 
 ## Usage
-Begin application by installing dependencies, then start server with the command node server. Then navigate to http://localhost:3001 to get started!
+Begin application by installing dependencies, then start server with the command node server. Then navigate to http://localhost:3000 to get started!
 
 ## Credits
-Starter code (front-end html & js) sourced from: https://github.com/coding-boot-camp/miniature-eureka
+Starter code (front-end html & js) sourced from: https://github.com/coding-boot-camp/cautious-meme
 Server code (back-end) created by Annie Schalnat, https://github.com/fairybones/NoteTaker
 
 ## Contribution Guidelines
