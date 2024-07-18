@@ -21,7 +21,8 @@ Begin application by installing dependencies, then start server with the command
 
 ## Credits
 Starter code (front-end html & js) sourced from: https://github.com/coding-boot-camp/cautious-meme
-Server code (back-end) created by Annie Schalnat, https://github.com/fairybones/NoteTaker
+Server code (back-end) created by Annie Schalnat, https://github.com/fairybones/PWA-Text-Editor
+This application is deployed on render! https://pwa-text-editor-mm6s.onrender.com
 
 ## Contribution Guidelines
 Submit a pull request on GitHub!
